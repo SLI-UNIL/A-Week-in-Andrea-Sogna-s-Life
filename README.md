@@ -10,7 +10,8 @@ The game is written in [Ink](https://www.inklestudios.com/ink/), a free narrativ
 
 ## Requirement
 
+Since the game is not hosted on a server, it must be downloaded locally. To do so, downlnoad the zip folder and extract it.
 
+## About
 
-
-
+<i> A Week in Andrea Sogna's Life </i> was created by Thomas Nawid Schatzmann and is part of an evaluation for "2D Game Development" under the direction of Prof. Isaac Pante (University of Lausanne, Spring 2022).
